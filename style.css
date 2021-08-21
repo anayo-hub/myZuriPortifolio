@@ -81,7 +81,7 @@ body{
         height: 40px;
     }
     .boo:hover{
-        cursor: progress;
+        cursor: pointer;
     }
     .nav-btn{
         display: none;
