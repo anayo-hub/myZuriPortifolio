@@ -27,6 +27,7 @@ body{
 }
 .boo{
     height: 40px;
+    cursor: pointer;
 }
 .nav-links{
     list-style: none;
